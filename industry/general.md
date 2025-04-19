@@ -2,7 +2,7 @@
 
 ## Company List
 
-- [Helixon](./companies/helixcon.md)
+- [Helixon](industry/companies/helixon.md)
 
 
 
