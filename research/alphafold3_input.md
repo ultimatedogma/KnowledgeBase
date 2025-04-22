@@ -1,0 +1,2 @@
+# AlphaFold3 Input
+
