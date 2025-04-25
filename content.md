@@ -9,4 +9,5 @@
 - [research/antibody_design](research/antibody_design.md)
 - [research/antibody_numbering](research/antibody_numbering.md)
 - [research/clustering_method](research/clustering_method.md)
+- [research/lysozyme](research/lysozyme.md)
 - [research/protein_mining](research/protein_mining.md)
