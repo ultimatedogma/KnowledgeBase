@@ -22,4 +22,6 @@
 - [research_note/antibody_numbering](research_note/antibody_numbering.md)
 - [research_note/clustering_method](research_note/clustering_method.md)
 - [research_note/lysozyme](research_note/lysozyme.md)
+- [research_note/oligo_library_assembly](research_note/oligo_library_assembly.md)
 - [research_note/protein_mining](research_note/protein_mining.md)
+- [research_note/trimer_library](research_note/trimer_library.md)
