@@ -1,3 +1,8 @@
 theme: minima
 title: Ultimate Dogma
 
+minima:
+  skin: dark
+  nav_pages:
+    - content.md
+  show_excerpts: true
