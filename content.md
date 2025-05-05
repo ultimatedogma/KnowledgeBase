@@ -5,6 +5,7 @@
 - [industry/helixon](industry/helixon.md)
 - [knowledge/dssp](knowledge/dssp.md)
 - [knowledge/great_depression](knowledge/great_depression.md)
+- [knowledge/jekyll_theme](knowledge/jekyll_theme.md)
 - [knowledge/pymol](knowledge/pymol.md)
 - [news_collection/ai_drug_design](news_collection/ai_drug_design.md)
 - [news_collection/deep_learning](news_collection/deep_learning.md)
