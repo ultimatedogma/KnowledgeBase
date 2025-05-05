@@ -1,4 +1,4 @@
-# Ultimate Dogma
+# 🧬 **Ultimate Dogma** 🧬
 
 > 🔬 Science | ⚒️ Engineering | 🏭 Industry
 
