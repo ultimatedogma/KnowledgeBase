@@ -8,14 +8,9 @@ kramdown:
     cdn: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 
 
-#theme: minima
-remote_theme: jekyll/minima@main
+theme: minima
+#remote_theme: jekyll/minima@main
 
-plugins:
-  - jekyll-remote-theme            # plugin is whitelisted on GH Pages
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
 
 minima:
   skin: dark
