@@ -52,7 +52,7 @@ Main properties of point cloud:
 
 Architecture: 
 
-![PointNet Architecture](pointnet_asset/pointnet_architecture.png ':0.8')
+![PointNet Architecture](pointnet_asset/pointnet_architecture.png ':size=10%')
 
 Three key modules:
 
