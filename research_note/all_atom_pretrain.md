@@ -8,6 +8,6 @@ Input:
 - ? Partial charge
 - 
 
-
+Paper: https://www.arxiv.org/abs/2503.03965
 
 
